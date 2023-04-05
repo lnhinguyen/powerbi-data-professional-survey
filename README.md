@@ -10,17 +10,17 @@
 PowerBI
 
 ## Aims: Create a dashboard to report on:
-<img width="458" alt="s1" src="https://user-images.githubusercontent.com/113321447/230007361-cc6e9468-028b-4103-8a62-5b830f13c47a.png">
+<img width="500" alt="s1" src="https://user-images.githubusercontent.com/113321447/230007361-cc6e9468-028b-4103-8a62-5b830f13c47a.png">
 
 ## Step 1: Data Importing & Cleaning
 ### For Salary, I used the middle point to replace the salary range
-<img width="410" alt="s2" src="https://user-images.githubusercontent.com/113321447/230008652-510ac879-b527-40ed-a36d-001465269e19.png">
+<img width="400" alt="s2" src="https://user-images.githubusercontent.com/113321447/230008652-510ac879-b527-40ed-a36d-001465269e19.png">
 ### To do that, I split the salary range into the first & second half, then clean the "-" and "k". 
-<img width="208" alt="s3" src="https://user-images.githubusercontent.com/113321447/230010171-4c504a00-dad8-4f72-b4b6-b55f296c94bd.png">
+<img width="400" alt="s3" src="https://user-images.githubusercontent.com/113321447/230010171-4c504a00-dad8-4f72-b4b6-b55f296c94bd.png">
 
 ## Step 2: Data Visualization
 ### Overview
-<img width="611" alt="s4" src="https://user-images.githubusercontent.com/113321447/230010895-218eb47a-a678-43d6-91a8-fd643fc96651.png">
+<img width="900" alt="s4" src="https://user-images.githubusercontent.com/113321447/230010895-218eb47a-a678-43d6-91a8-fd643fc96651.png">
 
 ### Analysis
 - Countries of origin: Most survey takers came from the United States. 
